@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pysga1996
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning Microservices
-- 💞️ I’m looking to collaborate on Golang
+- 👀 I’m interested in C/C++
+- 🌱 I’m currently learning Microservices/K8s
+- 💞️ I’m looking to collaborate on Java Spring, Angular, Vue, React
 - 📫 Reach me at ... 
 
 <!---
