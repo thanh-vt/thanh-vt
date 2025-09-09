@@ -9,5 +9,5 @@ pysga1996/pysga1996 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-[CCNA Course 1 Badge](https://www.credly.com/badges/405aa611-4631-4cb7-add3-dbfa794a2d10/public_url)
-[CCNA Course 2 Badge](https://www.credly.com/badges/405aa611-4631-4cb7-add3-dbfa794a2d10/public_url)
+1. [CCNA Course 1 Badge](https://www.credly.com/badges/405aa611-4631-4cb7-add3-dbfa794a2d10/public_url)
+2. [CCNA Course 2 Badge](https://www.credly.com/badges/405aa611-4631-4cb7-add3-dbfa794a2d10/public_url)
